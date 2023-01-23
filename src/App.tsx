@@ -18,7 +18,7 @@ function App() {
 
     return (
         <div className="App">
-           <Counter value={value} incNumber={incNumber} resetNumber={resetNumber} />
+           <Counter  incNumber={incNumber} resetNumber={resetNumber} />
         </div>
     );
 }
